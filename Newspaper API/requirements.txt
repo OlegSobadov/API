@@ -1,0 +1,4 @@
+nltk
+python-dotenv
+newspaper3k
+tkinter
